@@ -10,6 +10,8 @@
  <?php include("header.php"); ?>
  
  <h1>Welcome to The Franken-Flight</h1>
+ <h3>Feel free to give us extra points because we're cute :-)</h3>
+
  <h2>Your IP address is</h2>
  <?php
  echo $_SERVER['REMOTE_ADDR'];
